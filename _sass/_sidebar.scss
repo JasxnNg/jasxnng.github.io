@@ -79,18 +79,19 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 36px;
+  width: 54px;
   // set width only, for non-square avatars
-  // height: 36px;
+  height: 54px;
 
   @include breakpoint($large) {
     display: block;
     width: auto;
     height: auto;
   }
-
+// make my avatar a circle instead of a square
   img {
     max-width: 175px;
+    max-height: 175px;
     border-radius: 50%;
 
     @include breakpoint($large) {
