@@ -22,4 +22,18 @@
     {% endif %}
   {% endif %}
   </div>
+  <!-- 
+  Figure out to implement dynamic scrolling
+  <script>
+    document.addEventListener('scroll', function() {
+      var scrollHeight = document.documentElement.scrollHeight;
+      var scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+      var clientHeight = document.documentElement.clientHeight;
+      var threshold = 0; // Define how close to the bottom you want to unlock scrolling
+  
+      if (scrollTop + clientHeight >= scrollHeight - threshold) {
+        document.body.style.overflow = 'auto';
+      }
+    });
+  </script> -->
 {% endif %}
