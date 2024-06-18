@@ -19,7 +19,8 @@
     
     // JUST NEEDED TO MAKE THIS STICKY
     position: sticky;
-    padding-top: $masthead-height;
+    top: 75px;
+    // padding-top: $masthead-height * 0.6;
   }
 
   @include breakpoint($large) {
@@ -94,7 +95,7 @@
   img {
     max-width: 175px;
     max-height: 175px;
-    border-radius: 50%;
+    border-radius: 100%;
 
     @include breakpoint($large) {
       padding: 5px;
@@ -142,8 +143,8 @@
   margin: 0;
 
   @include breakpoint($large) {
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 5px;
+    margin-bottom: 0px;
   }
 }
 
@@ -151,8 +152,8 @@
   margin: 0;
 
   @include breakpoint($large) {
-    margin-top: 10px;
-    margin-bottom: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
   }
 }
 
@@ -176,7 +177,7 @@
   }
 
   button {
-    margin-bottom: 0;
+    margin-bottom: 20px;
 
     @include breakpoint($large) {
       display: none;

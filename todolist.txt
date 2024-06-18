@@ -1,3 +1,4 @@
 - Update the location to take links
 - Update the Building icon to take links
 - Fix the scrolling function
+- Remove the sidebar from all of hte pages
