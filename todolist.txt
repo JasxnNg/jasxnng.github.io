@@ -2,3 +2,5 @@
 - Update the Building icon to take links
 - Fix the scrolling function
 - Remove the sidebar from all of hte pages
+- Center the div :skull emoji: 
+        - https://www.w3schools.com/css/tryit.asp?filename=trycss_align_container
