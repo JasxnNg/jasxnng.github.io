@@ -1,0 +1,3 @@
+- Update the location to take links
+- Update the Building icon to take links
+- Fix the scrolling function
