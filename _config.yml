@@ -9,7 +9,7 @@
 # Basic Site Settings
 domain                   : jasxnng.github.io
 locale                   : "en-US"
-title                    : "Personal Website"
+title                    : "Home Page"
 title_separator          : "-"
 name                     : &name "Jason Ng"
 description              : &description "Personal website for Jason Ng"
