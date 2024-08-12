@@ -18,7 +18,7 @@
     <h3 class="author__name">{{ author.name }}</h3> 
     {% if author.pronouns %} <p class="author__pronouns">{{ author.pronouns }}</p> {% endif %}
     <!-- {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %} -->
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    {% if author.bio %}<div class="author__bio">{{ author.bio }}</div>{% endif %}
   </div>
 
   <div class="author__urls-wrapper">
@@ -26,7 +26,7 @@
     <ul class="author__urls social-icons">
       <!-- Font Awesome icons / Biographic information  -->
       {% if author.location %}
-        <li><a href="https://www.google.com/maps/place/Cambridge,+MA/"><i class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</a></li>
+        <li><a href="https://www.google.com/maps/place/Cambridge,+MA/" target ="_blank"><i class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</a></li>
       {% endif %}
       {% if author.employer %}
         <!-- <li class="author__desktop"> -->

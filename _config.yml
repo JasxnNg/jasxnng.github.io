@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "Untitled.jpeg"
   name             : "Jason Ng"
-  pronouns         : "he/him" # example: "she/her"  
+  pronouns         : "(he/him)" # example: "she/her"  
   bio              : "Incoming freshman @ MIT. Interested in experimental physics and theoretical CS!"
   location         : "Cambridge, MA"
   employer         : #

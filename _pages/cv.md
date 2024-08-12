@@ -1,13 +1,14 @@
 ---
 layout: archive
 permalink: /curriculum_vitae/
-title: Curriculum Vitae
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
+
+<!-- <embed src="https://yufeizhao.com/cv.pdf" width="700" height="375" 
+ type="application/pdf"> -->
 
 Education
 ======
