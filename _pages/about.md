@@ -25,7 +25,7 @@ Currently, I
 
 </ul>
 
-Previously, I
+Previously, I 
 ====
 <ul>
 <li>worked with my parents at a fruit stand in Brooklyn, NY.</li>
