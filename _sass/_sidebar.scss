@@ -15,6 +15,7 @@
 
   @media screen and (min-width: $sidebar-screen-min-width) {
     height: 75vh;
+    
     // overflow-y: auto;               // Add scrollbar if the sidebar is too long
     
     // JUST NEEDED TO MAKE THIS STICKY
@@ -25,6 +26,8 @@
   }
 
   @include breakpoint($large) {
+    
+    
     @include span(2 of 12);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
@@ -72,9 +75,9 @@
     z-index: 10;
   }
 
-  @include breakpoint($x-large) {
-    width: $right-sidebar-width;
-  }
+  // @include breakpoint($x-large) {
+  //   width: $right-sidebar-width;
+  // }
 }
 
 /*
@@ -95,8 +98,8 @@
   }
 // make my avatar a circle instead of a square
   img {
-    max-width: 160px;
-    max-height: 160px;
+    max-width: 200px;
+    max-height: 200px;
     border-radius: 100%;
 
     @include breakpoint($large) {
