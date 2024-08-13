@@ -21,7 +21,7 @@ Currently, I
 <li>am an incoming freshman @ MIT, looking to do some semi-sensible combination of CS (6-3), Physics (8), Math (18), and History (21H).</li>
 <li>will be interning at Amazon next summer as apart of the <a href="https://www.amazonfutureengineer.com/scholarships" target= "_blank">Amazon Future Engineer Scholarship</a></li>
 <li>am jamming out to <a href="https://open.spotify.com/track/36aY2VhOBpgnExFZL1mBH2?si=ad50fa8b6d364d94" target="_blank">Colossal Loss</a> on Niki's new album, Buzz.</li>
-<li></li>
+<li>am trying to learn Rust and Verilog, but struggling immensely</li>
 
 </ul>
 
