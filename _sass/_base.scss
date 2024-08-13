@@ -11,6 +11,7 @@ body {
   margin: 0;
   padding: $masthead-height 0 0;
   // check this over again
+  padding-right: 1em;
   padding-bottom: 3em;
   color: $text-color;
   // changing the font over here
@@ -56,6 +57,7 @@ h5 {
 h6 {
   font-size: $type-size-6;
 }
+
 
 small, .small {
   font-size: $type-size-6;

@@ -10,11 +10,14 @@ redirect_from:
 <!-- <embed src="https://yufeizhao.com/cv.pdf" width="700" height="375" 
  type="application/pdf"> -->
 
+<span style ="font-size:1.1em">If you want to see a more complete CV in Latex, click <a href="" target="_blank">here</a>.</span>
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Undecided, Massachusetts Institute of Technology
+* HS Diploma, Stuyvesant High School ('24)
+  * Highest Honors in CS, High Honors in AP Physics C
+  * UFT Albert Shanker Scholarship, AFE Scholar
 
 Work experience
 ======

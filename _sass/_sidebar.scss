@@ -55,7 +55,7 @@
 
   p, li {
 
-    font-size: $type-size-6 * 1.1;
+    font-size: $type-size-6 * 1.15;
     line-height: 1;
   }
 
@@ -75,9 +75,9 @@
     z-index: 10;
   }
 
-  // @include breakpoint($x-large) {
-  //   width: $right-sidebar-width;
-  // }
+  @include breakpoint($x-large) {
+    width: $right-sidebar-width;
+  }
 }
 
 /*
@@ -87,9 +87,9 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 54px;
+  width: 75px;
   // set width only, for non-square avatars
-  height: 54px;
+  height: 75px;
 
   @include breakpoint($large) {
     display: block;
