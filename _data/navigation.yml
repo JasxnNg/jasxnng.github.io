@@ -11,8 +11,8 @@ main:
   - title: "Curriculum Vitae"
     url: /curriculum_vitae/
 
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
         
   - title: "Blog"
     url: /blog/
